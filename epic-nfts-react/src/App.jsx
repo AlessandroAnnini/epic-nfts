@@ -41,7 +41,7 @@ const App = () => {
     <div className="App">
       <div className="container">
         <div className="header-container">
-          <p className="header gradient-text">Epic NFTs</p>
+          <p className="header gradient-text">Epic NFTs by Alean</p>
           <p className="sub-text">
             Each unique. Each beautiful. Discover your NFT today.
           </p>

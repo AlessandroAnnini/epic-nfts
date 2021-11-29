@@ -61,6 +61,13 @@
   animation: gradient-animation 4s ease infinite;
 }
 
+.view-nft-button {
+  background: -webkit-linear-gradient(left, #3d85e4, #e4558c);
+  background-size: 200% 200%;
+  animation: gradient-animation 4s ease infinite;
+  margin-bottom: 15px;
+}
+
 .mint-button {
   background: -webkit-linear-gradient(left, #a200d6, #ff6fdf);
   background-size: 200% 200%;
@@ -83,6 +90,7 @@
   justify-content: center;
   align-items: center;
   padding-bottom: 30px;
+  gap: 20px;
 }
 
 .twitter-logo {
@@ -129,4 +137,13 @@
   100% {
     background-position: 0% 50%;
   }
+}
+
+.loader-container {
+  display: flex;
+  justify-content: center;
+}
+
+.error {
+  color: red;
 }

@@ -99,7 +99,7 @@ const App = () => {
             className="footer-text"
             href={TWITTER_LINK_ALEAN}
             target="_blank"
-            rel="noreferrer">{`built by @alean`}</a>
+            rel="noreferrer">{`built by @ale_annini`}</a>
           <a
             className="footer-text"
             href={TWITTER_LINK_BUILDSPACE}

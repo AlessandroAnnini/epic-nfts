@@ -8,7 +8,7 @@ import './styles/App.css';
 import twitterLogo from './assets/twitter-logo.svg';
 
 const TWITTER_LINK_BUILDSPACE = 'https://twitter.com/_buildspace';
-const TWITTER_LINK_ALEAN = `https://twitter.com/alean`;
+const TWITTER_LINK_ALEAN = 'https://twitter.com/ale_annini';
 const OPENSEA_LINK =
   'https://testnets.opensea.io/collection/squarenft-llqhtbh8xg';
 const contractAddress = '0x5A8Ece51ACEeABfAb2D5f0a648273AC632Ca6AED';
